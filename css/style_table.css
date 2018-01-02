@@ -1,0 +1,22 @@
+.mydiv
+{
+	padding:40px;
+}
+
+.div-para
+{
+	display: block;
+	margin: 0 auto;
+	font-size: 40px;
+	text-align:center;
+}
+iframe {
+   display: block;
+   margin: 0 auto;
+}
+
+.anchor-para{
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+}
