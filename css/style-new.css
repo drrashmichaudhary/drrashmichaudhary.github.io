@@ -1,0 +1,14 @@
+.video-topic-heading{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 40px;
+}
+.video-title{
+    font-size: 30px;
+    color: green!important;
+}
+
+.video-title-link{
+    font-size: 20px;
+    color:blue !important;
+}
