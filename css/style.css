@@ -115,6 +115,22 @@ li a.active {
     width: 50%;
     padding-top: 50px;
 }
+
+.video-topic-heading{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.video-title{
+    font-size: 28px;
+    color:blue !important;
+}
+
+.video-title{
+    font-size: 20px;
+    color: green!important;
+}
 .slider-wrapper {
     padding: 0 !important;
 }
